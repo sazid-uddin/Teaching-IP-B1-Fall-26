@@ -12,6 +12,7 @@
 ## Class Registry
 1. [Class 1 - 28 Sept](Class1/README.md)
 2. [Class 2 - 30 Sept](Class2/README.md)
+3. [Class 3 - 5 Oct](Class3/README.md)
 
 ## Semester: Fall 2026-27 - Course: Introduction to Programming
 Course Slides and Materials: Please find the link in the notice on AIUB portal.

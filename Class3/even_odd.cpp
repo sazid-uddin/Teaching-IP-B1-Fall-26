@@ -7,7 +7,7 @@ int main ()
 	cin >> n;
 
 	int m;
-	m = n % 2; // assignment operator
+	m = n % 2;
 
 	if (m == 0)
 	{

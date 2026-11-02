@@ -1,4 +1,4 @@
-### Class 8 - 26 Oct
+### Class 9 - 26 Oct
 
 #### Topics Covered:
 

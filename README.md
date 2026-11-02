@@ -20,6 +20,7 @@
 8. Class 8 - 21 Oct (No class, Durga Puja)
 9. [Class 9 - 26 Oct](Class9/README.md)
 10. [Class 10 - 28 Oct](Class10/README.md)
+11. [Class 11 - 2 Nov](Class11/README.md)
 
 ## Semester: Fall 2026-27 - Course: Introduction to Programming
 Course Slides and Materials: Please find the link in the notice on AIUB portal.

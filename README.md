@@ -30,6 +30,7 @@
 
 1. [Class 1 - 18 Nov](FinalTerm/Class1/README.md)
 2. [Class 2 - 23 Nov](FinalTerm/Class2/README.md)
+3. [Class 3 - 25 Nov](FinalTerm/Class3/README.md)
 
 ## Semester: Fall 2026-27 - Course: Introduction to Programming
 
